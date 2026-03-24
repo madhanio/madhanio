@@ -5,7 +5,7 @@
 **Android Developer · CS & Data Science Student · Builder of Student Tools**
 
 [![GitHub](https://img.shields.io/badge/GitHub-madhanio-181717?style=flat-square&logo=github)](https://github.com/madhanio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/madhanio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/madhan-adepu)
 
 </div>
 
