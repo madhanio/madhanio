@@ -1,53 +1,40 @@
-<!-- Animated Wave Header -->
+<!-- Animated Header Wave -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:7F52FF&height=220&section=header&text=Madhanio&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=230&section=header&text=madhanio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation Hero -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=3DDC84&center=true&vCenter=true&width=650&lines=Android+Developer;Building+Automation+Tools+for+Students;Learning+AI+%26+System+Design" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hey+there+👋;I+like+building+things;Exploring+code+%26+systems;Learning+everyday"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+<!-- Animated GIF Section -->
 
-* 🎓 B.Tech CSE (Data Science) student at HITAM, Hyderabad
-* 📱 Build Android apps using **Kotlin**
-* ⚙️ Interested in **automation, productivity, real student problems**
-* 🌱 Currently learning **Firebase, AI tools, system basics**
+<div align="center">
 
----
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
-## 🚀 Project
-
-### 📵 Smart Silence
-
-Android app that automatically manages notification sound profiles based on schedules using **Do Not Disturb access**.
-
-* Schedule based silent mode
-* Room DB local persistence
-* Custom time ranges
-
-🔗 https://github.com/madhanio/smart-silence
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<!-- Minimal Identity Line -->
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,js,html,css,git,github" />
+### ⚡ curious mind • silent builder • constant learner
 
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- GitHub Stats -->
 
 <div align="center">
 
@@ -59,16 +46,18 @@ Android app that automatically manages notification sound profiles based on sche
 
 ---
 
+<!-- Animated Emoji Footer -->
+
 <div align="center">
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="40"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1643515332/18255/party_blob.gif" width="40"/>
 
-Learning • Building • Improving
+just showing up and shipping.
 
 </div>
 
-<!-- Animated Wave Footer -->
+<!-- Footer Wave -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
 </p>
