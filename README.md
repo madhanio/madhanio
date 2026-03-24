@@ -17,11 +17,12 @@ I'm a second-year B.Tech student in **Computer Science & Data Science** at HITAM
 
 My work sits at the intersection of **automation**, **productivity**, and **campus life** — things I genuinely care about because I live them every day. I write clean Kotlin, think in systems, and ship things that actually get used.
 
-- 📍 Based in Hyderabad, India
-- 🎓 B.Tech CSE (Data Science) — HITAM
-- 🔭 Currently building: **Smart Silence**
-- 🌱 Exploring: AI-assisted development & system design
-- 💬 Ask me about Android, automation, or student app ideas
+- 📍 Based in Hyderabad, India &nbsp;|&nbsp; 🎓 B.Tech CSE (Data Science) — HITAM
+- 🔭 I'm currently working on **Smart Silence** — evolving it into a full campus productivity suite *(CampusKit)*
+- 🌱 I'm currently learning **AI-assisted dev workflows**, **system design**, and **advanced Firebase**
+- 👯 I'm looking to collaborate on **student-focused Android apps** or open-source campus tools
+- 💬 Ask me about **Android automation**, **Kotlin**, **Room DB**, or **building apps for real campus problems**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/madhanio) &nbsp;·&nbsp; [GitHub](https://github.com/madhanio)
 
 ---
 
