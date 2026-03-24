@@ -1,48 +1,31 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8e/5e/5c/8e5e5c26b47e22f254924a3501fccbd8.gif" width="100%" alt="Cinematic Night Banner" />
+
+  <!-- Animated header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,15&height=220&section=header&text=yo%2C%20i'm%20[YOURNAME]🌀&fontSize=60&animation=fadeIn" width="100%">
+
+  <h2>✨ just vibing & building cool shit in public ✨</h2>
+
+  <!-- Big animated GIFs / visuals (replace with your own links) -->
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" alt="vibe">
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80&section=footer&text=currently%20in%20my%20main%20character%20era%20💫" width="100%">
+
+  <!-- Socials with animated icons (use Cool-GIFs-For-GitHub repo) -->
+  <a href="https://twitter.com/yourusername">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/twitter.gif" width="50" alt="twitter">
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/instagram.gif" width="50" alt="ig">
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/linkedin.gif" width="50" alt="linkedin">
+  </a>
 
   <br><br>
 
-  <h2 align="center">✦ hi, i'm madhan ✦</h2>
-  <p align="center">
-    <i>creating things that look good and feel right.</i>
-  </p>
+  <h3>🚀 let's create chaos together</h3>
 
-  <br>
+  <img src="https://github.com/[YOURUSERNAME]/[YOURUSERNAME]/blob/main/assets/fire.gif" width="300">
 
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/email-black?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br><br>
-
-<div align="center">
-  <h3> 🎧 on repeat </h3>
-  <a href="https://github.com/novatorem/novatorem">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</div>
-
-<br><br>
-
-<div align="center">
-  <h3> 🐍 the grind </h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dynamic Quote" />
 </div>
