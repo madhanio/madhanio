@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,15&height=220&section=header&text=yo%2C%20i'm%20[YOURNAME]🌀&fontSize=60&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,15&height=220&section=header&text=yo%2C%20i'm%20Madhan🌀&fontSize=60&animation=fadeIn" width="100%">
 
   <h2>✨ just vibing & building cool shit in public ✨</h2>
 
