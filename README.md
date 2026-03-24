@@ -1,52 +1,36 @@
-<div align="center">
+<div align="center"> 
+<img src="[https://capsule-render.vercel.app/api?type=soft&height=280&color=gradient&customColorList=12,20,24&text=yo%2C+i'm+madhan](https://capsule-render.vercel.app/api?type=soft&height=280&color=gradient&customColorList=12,20,24&text=yo%2C+i'm+madhan)+🌀&fontColor=ffb3c6&fontSize=65&fontAlignY=55&animation=scaleIn&desc=builder.+dreamer.+chaotic+good.&descSize=18&descAlignY=75&descAlign=50&stroke=ffb3c6&strokeWidth=1" width="100%" alt="Header"> 
+<br/> 
 
-<!-- Animated header — soft egg/egg_sugar fade with pastel pink text -->
-<img src="https://capsule-render.vercel.app/api?type=egg&height=280&color=gradient&customColorList=12,20,24&text=yo%2C+i'm+madhan+🌀&fontColor=ffb3c6&fontSize=65&fontAlignY=55&animation=fadeIn&desc=builder.+dreamer.+chaotic+good.&descSize=18&descAlignY=75&descAlign=50&stroke=ffb3c6&strokeWidth=1" width="100%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&pause=1000&color=FFB3C6&center=true&vCenter=true&width=650&lines=✨+just+vibing+and+building+cool+shit+in+public+✨;turning+caffeine+into+code+☕;shipping+before+i'm+ready+🎀;if+it+works,+don't+touch+it+✨;git+push+and+pray+🕊️;undefined+is+just+a+vibe+🌸)](https://git.io/typing-svg)
+<br/> 
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&pause=1000&color=FFB3C6&center=true&vCenter=true&width=650&lines=✨+just+vibing+%26+building+cool+shit+in+public+✨;turning+caffeine+into+code+☕;shipping+before+i'm+ready+🎀;if+it+works%2C+don't+touch+it+✨;git+push+and+pray+🕊️;undefined+is+just+a+vibe+🌸" alt="Typing SVG" />
-
-<br/>
-
-<!-- Big animated visual -->
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="380" alt="vibe">
-
+<img src="[https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)" width="380" alt="vibe"> 
 <br/><br/>
 
-<!-- Currently in my era banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,24&height=80&text=currently+in+my+main+character+era+💫&fontColor=ffb3c6&fontSize=22" width="100%">
+<img src="[https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,24&height=80&text=currently+in+my+main+character+era](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,24&height=80&text=currently+in+my+main+character+era)+💫&fontColor=ffb3c6&fontSize=22" width="100%" alt="Era Banner"> 
+</div> 
 
-</div>
-
----
-
-<div align="center">
-
-```
+<div align="center"> 
+<pre>
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   ♡  currently ...  building something nobody asked    │
-│                      for but everyone will need        │
+│   ♡  currently ...  building something nobody asked     │
+│                     for but everyone will need          │
 │                                                         │
-│   ♡  obsessed with ...  making things that just work   │
+│   ♡  obsessed with ...  making things that just work    │
 │                                                         │
-│   ♡  status ...  it compiles. shipping it.             │
+│   ♡  status ...  it compiles. shipping it.              │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
-```
+</pre>
+</div> 
 
-</div>
+<div align="center"> 
+✦ on my screen rn ✦
+</div> 
 
----
-
-<div align="center">
-
-### ✦ on my screen rn ✦
-
-</div>
-
-```kotlin
+<pre lang="kotlin">
 val madhan = Developer(
     mood        = "building quietly 🎀",
     currentlyOn = "something new. you'll see.",
@@ -54,39 +38,23 @@ val madhan = Developer(
     weakness    = "side projects at 2am",
     plot_twist  = "the real bugs were the friends we made along the way 🌸"
 )
-```
-
----
-
-<div align="center">
-
-### 🚀 let's create chaos together
+</pre>
 
 <br/>
 
-<!-- Animated social icons -->
-<a href="https://twitter.com/yourusername">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/twitter.gif" width="50" alt="twitter">
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/yourusername">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/instagram.gif" width="50" alt="ig">
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/yourusername">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/linkedin.gif" width="50" alt="linkedin">
-</a>
+<div align="center"> 
+<img src="[https://capsule-render.vercel.app/api?type=transparent&height=40&text=](https://capsule-render.vercel.app/api?type=transparent&height=40&text=)✦+let's+create+chaos+together+✦&fontColor=ffb3c6&fontSize=18" alt="Chaos Header">
+<br/><br/>
 
-</div>
+<a href="[https://twitter.com/yourusername](https://twitter.com/yourusername)"><img src="[https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/twitter.gif](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/twitter.gif)" width="55" alt="twitter" style="margin: 0 15px;"></a>
+<a href="[https://instagram.com/yourusername](https://instagram.com/yourusername)"><img src="[https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/instagram.gif](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/instagram.gif)" width="55" alt="ig" style="margin: 0 15px;"></a>
+<a href="[https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)"><img src="[https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/linkedin.gif](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/linkedin.gif)" width="55" alt="linkedin" style="margin: 0 15px;"></a>
 
----
+<br/><br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer&reversal=true" width="100%"/>
-
-```
-✦  madhan © 2025  ✦  built different  ✦
-```
-
+<img src="[https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,24&section=footer&reversal=true](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,24&section=footer&reversal=true)" width="100%" alt="Footer Wave"/> 
+<br/>
+<p style="color: #ffb3c6; font-family: monospace; font-size: 14px;">
+  ✦ madhan © 2026 ✦ built different ✦
+</p>
 </div>
