@@ -30,9 +30,9 @@
 <div align="center">
 <a href="https://twitter.com/yourusername"><img src="https://skillicons.dev/icons?theme=dark&i=twitter" width="45" alt="Twitter" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?theme=dark&i=instagram" width="45" alt="Instagram" /></a>
+<a href="https://instagram.com/mx9hu__07"><img src="https://skillicons.dev/icons?theme=dark&i=instagram" width="45" alt="Instagram" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?theme=dark&i=linkedin" width="45" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/madhan-adepu"><img src="https://skillicons.dev/icons?theme=dark&i=linkedin" width="45" alt="LinkedIn" /></a>
 </div>
 
 <br/><br/>
