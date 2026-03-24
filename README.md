@@ -1,88 +1,49 @@
+<!-- Animated Wave Header -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:7F52FF&height=220&section=header&text=Madhanio&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<!-- Typing Animation -->
+
 <div align="center">
 
-# Hey, I'm Madhan 👋
-
-**Android Developer · CS & Data Science Student · Builder of Student Tools**
-
-[![GitHub](https://img.shields.io/badge/GitHub-madhanio-181717?style=flat-square&logo=github)](https://github.com/madhanio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/madhan-adepu)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=3DDC84&center=true&vCenter=true&width=650&lines=Android+Developer;Building+Automation+Tools+for+Students;Learning+AI+%26+System+Design" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-I'm a second-year B.Tech student in **Computer Science & Data Science** at HITAM, Hyderabad — and I build Android apps that solve real problems for students.
-
-My work sits at the intersection of **automation**, **productivity**, and **campus life** — things I genuinely care about because I live them every day. I write clean Kotlin, think in systems, and ship things that actually get used.
-
-- 📍 Based in Hyderabad, India &nbsp;|&nbsp; 🎓 B.Tech CSE (Data Science) — HITAM
-- 🔭 I'm currently working on **Smart Silence** — evolving it into a full campus productivity suite *(CampusKit)*
-- 🌱 I'm currently learning **AI-assisted dev workflows**, **system design**, and **advanced Firebase**
-- 👯 I'm looking to collaborate on **student-focused Android apps** or open-source campus tools
-- 💬 Ask me about **Android automation**, **Kotlin**, **Room DB**, or **building apps for real campus problems**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/madhanio) &nbsp;·&nbsp; [GitHub](https://github.com/madhanio)
+* 🎓 B.Tech CSE (Data Science) student at HITAM, Hyderabad
+* 📱 Build Android apps using **Kotlin**
+* ⚙️ Interested in **automation, productivity, real student problems**
+* 🌱 Currently learning **Firebase, AI tools, system basics**
 
 ---
 
-## 🚀 Projects
+## 🚀 Project
 
 ### 📵 Smart Silence
-> *Silence your phone. Automatically. On schedule.*
 
-A productivity-focused Android app that automates your notification sound profiles using **schedule-based triggers** and Android's **Do Not Disturb** access — so your phone respects your time without you having to think about it.
+Android app that automatically manages notification sound profiles based on schedules using **Do Not Disturb access**.
 
-| Feature | Detail |
-|---|---|
-| 🕐 Schedule-based triggers | Silence during class hours, meetings, or study time |
-| 🔕 DND Integration | Uses Android's native Do Not Disturb API |
-| 💾 Local persistence | Room DB for reliable offline scheduling |
-| ⚙️ Fully configurable | Custom profiles per day and time range |
+* Schedule based silent mode
+* Room DB local persistence
+* Custom time ranges
 
-[![Repo](https://img.shields.io/badge/View_Repo-Smart_Silence-1F6FEB?style=flat-square&logo=github)](https://github.com/madhanio/smart-silence)
+🔗 https://github.com/madhanio/smart-silence
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Mobile**
+<p>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Room DB](https://img.shields.io/badge/Room_DB-3DDC84?style=flat-square&logo=android&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,js,html,css,git,github" />
 
-**Web & Scripting**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Tools & Platforms**
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-
----
-
-## 📚 Currently Learning
-
-- 🤖 **AI-assisted development** — integrating LLM tools into real dev workflows
-- 🧩 **System design fundamentals** — scalability, architecture patterns, database design
-- ☁️ **Firebase advanced** — Firestore rules, Cloud Functions, real-time sync patterns
-- 📊 **Data Science** — coursework in ML, statistics, and Python-based analysis
-
----
-
-## 🎯 Vision
-
-> *"The best tools are the ones students don't have to think about — they just work."*
-
-I believe student life is full of friction that technology hasn't solved well yet. My goal is to build a suite of **campus-native Android apps** that handle the mundane — scheduling, tracking, silence modes, attendance — so students can focus on what actually matters.
-
-Every project I ship starts with a real frustration I've experienced. That's the only filter I need.
+</p>
 
 ---
 
@@ -90,9 +51,9 @@ Every project I ship starts with a real frustration I've experienced. That's the
 
 <div align="center">
 
-![Madhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhanio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=madhanio&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanio&layout=compact&theme=tokyonight&hide_border=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanio&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -100,7 +61,14 @@ Every project I ship starts with a real frustration I've experienced. That's the
 
 <div align="center">
 
-*Open to internships, collaborations, and conversations about building useful things.*
-**Let's connect →** [linkedin.com/in/madhanio](https://linkedin.com/in/madhanio)
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="40"/>
+
+Learning • Building • Improving
 
 </div>
+
+<!-- Animated Wave Footer -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=120&section=footer"/>
+</p>
