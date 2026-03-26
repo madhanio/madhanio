@@ -69,15 +69,15 @@ const madhan = {
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=6e5494" alt="GitHub"/>
 </a>
 
-<a href="https://linkedin.com/in/madhan">
+<a href="https://linkedin.com/in/madhan-adepu">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:madhan.adepu9@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email"/>
 </a>
 
-<a href="https://instagram.com/madhanio">
+<a href="https://instagram.com/mx9hu__07">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" alt="Instagram"/>
 </a>
 
