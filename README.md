@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=9C89B8&center=true&vCenter=true&width=600&lines=✦+Hi,+I'm+Madhan+✦;✦+Welcome+to+my+space+✦" alt="Animated Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=9C89B8&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Madhan;Welcome+to+my+space" alt="Animated Header" />
 
 <!-- Typing SVG with Catchy Lines -->
 <a href="https://github.com/madhanio">
