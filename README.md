@@ -29,7 +29,6 @@
 
 ## 🎮 status: online
 
-<div align="center">
 
 ```javascript
 const madhan = {
