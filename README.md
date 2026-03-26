@@ -74,10 +74,6 @@ const madhan = {
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn"/>
 </a>
 
-<a href="https://twitter.com/madhanio">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=1DA1F2" alt="Twitter"/>
-</a>
-
 <a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email"/>
 </a>
@@ -88,9 +84,6 @@ const madhan = {
 
 </div>
 
-<br/>
-
----
 
 <div align="center">
 
