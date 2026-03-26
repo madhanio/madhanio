@@ -1,45 +1,110 @@
+# ◆ madhan
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&random=true&width=700&lines=the+code+speaks+louder+than+words;some+build+apps%2C+some+build+empires;observer+of+patterns%2C+breaker+of+norms;reality+is+just+poorly+written+software;they+asked+if+i+could%2C+not+if+i+should;shipping+silence+in+a+world+of+noise;engineering+serendipity)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="480" alt="abstract code"/>
+</div>
+
+<br/>
+
+## 🎭 the duality
+
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=9C89B8&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Madhan;Welcome+to+my+space" alt="Animated Header" />
+| 🌙 after midnight | ☀️ during daylight |
+|:---:|:---:|
+| architect of chaos | structured problem solver |
+| "one more feature" syndrome | "ship it now" mentality |
+| coffee-driven development | tea-powered debugging |
+| async/await enthusiast | synchronous life liver |
 
-<!-- Typing SVG with Catchy Lines -->
+</div>
+
+<br/>
+
+## 🎮 status: online
+
+<div align="center">
+
+```javascript
+const madhan = {
+    location: "somewhere between ideation and execution",
+    status: "compiling thoughts...",
+    languages: ["Java", "Kotlin", "English", "Sarcasm"],
+    currentMood: "🎯",
+    sleepSchedule: "what's that?",
+    favoriteDebugMethod: "console.log('why god why')",
+    workingOn: "👀",
+};
+```
+
+</div>
+
+<br/>
+
+## 💫 vibes & aesthetics
+
+<div align="center">
+  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 github wrapped
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=madhanio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanio&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="48%" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+## 🌐 let's connect
+
+<div align="center">
+  
 <a href="https://github.com/madhanio">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=A9B5DF&center=true&vCenter=true&width=500&lines=Analyzing+the+chaos.;Building+aesthetic+experiences.;Probably+watching+anime.;Capturing+moments." alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=6e5494" alt="GitHub"/>
 </a>
 
-<br/>
+<a href="https://linkedin.com/in/madhan">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn"/>
+</a>
 
-<!-- Aesthetic GIF -->
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" alt="aesthetic lofi gif" style="border-radius: 15px;"/>
+<a href="https://twitter.com/madhanio">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=1DA1F2" alt="Twitter"/>
+</a>
 
-<br/><br/>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email"/>
+</a>
 
----
+<a href="https://instagram.com/madhanio">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" alt="Instagram"/>
+</a>
 
-### ✧ The Vibe ✧
-Navigating the digital space. When I'm not untangling logic, I'm probably exploring photography, catching up on Demon Slayer, or building something visually pleasing. I believe in letting the work speak for itself—just clean code, solid logic, and minimalist aesthetics.
-
----
-
-### ✧ Connect With Me ✧
-
-<!-- Aesthetic Socials -->
-<p align="center">
-  <a href="https://github.com/madhanio">
-    <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</div>
 
 <br/>
 
-<!-- Aesthetic Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+---
+
+<div align="center">
+  
+### *"execution > explanation"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=madhanio&color=8B5CF6&style=flat-square&label=◆)
 
 </div>
