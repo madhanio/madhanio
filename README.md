@@ -49,7 +49,6 @@ const madhan = {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanio&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF6BCB&currStreakLabel=8B5CF6&sideLabels=8B5CF6" width="49%" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanio&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=6" width="49%" alt="Top Languages"/>
 
 </div>
 
