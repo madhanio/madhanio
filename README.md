@@ -1,3 +1,5 @@
+<h1 align="center">🦇 hi, i'm madhan</h1>
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=A9A9A9&center=true&vCenter=true&random=true&width=700&lines=haunting+the+codebase+since+day+one;some+build+apps%2C+some+build+empires;observer+of+patterns%2C+breaker+of+norms;reality+is+just+poorly+written+software;they+asked+if+i+could%2C+not+if+i+should;shipping+silence+in+a+world+of+noise;welcome+to+my+void+%F0%9F%91%BB)](https://git.io/typing-svg)
