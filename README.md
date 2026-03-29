@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Q8uUxr4A1xweI/giphy.gif" alt="Lofi Ghost Banner" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=haunting+the+codebase+since+day+one;brb,+turning+coffee+into+bugs;leave+a+star+before+you+go+%F0%9F%91%BB" alt="Typing SVG" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=im+probably+debugging...;or+staring+at+a+screen...;leave+a+star+before+you+go+%F0%9F%91%BB)
+
 </div>
+
 
 
 
