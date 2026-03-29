@@ -1,93 +1,20 @@
-# ◆ madhan
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&random=true&width=700&lines=the+code+speaks+louder+than+words;some+build+apps%2C+some+build+empires;observer+of+patterns%2C+breaker+of+norms;reality+is+just+poorly+written+software;they+asked+if+i+could%2C+not+if+i+should;shipping+silence+in+a+world+of+noise;engineering+serendipity)](https://git.io/typing-svg)
-
+  <img src="https://i.pinimg.com/originals/26/d8/70/26d87042a63db929e0b86e097d4afb3c.gif" width="100%" alt="Lofi Ghost Banner" />
+  <br>
+  <h1>powered by zero sleep and code spirits 🕸️</h1>
+  <p><i>"haunting the codebase since [year you started coding]"</i></p>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="480" alt="abstract code"/>
-</div>
-
-<br/>
-
-## 🎭 the duality
-
-<div align="center">
-
-| 🌙 after midnight | ☀️ during daylight |
-|:---:|:---:|
-| architect of chaos | structured problem solver |
-| "one more feature" syndrome | "ship it now" mentality |
-| coffee-driven development | tea-powered debugging |
-| async/await enthusiast | synchronous life liver |
-
-</div>
-
-<br/>
-
-## 🎮 status: online
-
-<div align="left">
-
-```javascript
-const madhan = {
-    location: "somewhere between ideation and execution",
-    status: "compiling thoughts...",
-    languages: ["Java", "Kotlin", "English", "Sarcasm"],
-    currentMood: "🎯",
-    sleepSchedule: "what's that?",
-    favoriteDebugMethod: "console.log('why god why')",
-    workingOn: "👀",
-};
-```
-
-</div>
-
-<br/>
-
-## 📊 github wrapped
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanio&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF6BCB&currStreakLabel=8B5CF6&sideLabels=8B5CF6" width="49%" alt="GitHub Streak"/>
-
+  <img src="https://i.pinimg.com/originals/58/e7/76/58e77665421c4b7d559feaeaeaf311cd.gif" width="100%" alt="Glitch Aesthetic" />
+  <br>
+  <h1>i write code and sometimes it doesn't break 🦇</h1>
+  <p><i>Full Stack Developer | Professional Bug Creator 🥀</i></p>
 </div>
 
 <div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhanio&theme=radical)
-
-</div>
-
-<br/>
-
-## 🌐 let's connect
-
-<div align="center">
-  
-<a href="https://github.com/madhanio">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=6e5494" alt="GitHub"/>
-</a>
-
-<a href="https://linkedin.com/in/madhan-adepu">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn"/>
-</a>
-
-<a href="https://instagram.com/mx9hu__07">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" alt="Instagram"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  
-### *"execution > explanation"*
-
-
+  <img src="https://64.media.tumblr.com/c6f62b08a1abaddc33c30672eebb1fd3/tumblr_p1k58sW5201wzh26yo1_500.gif" width="100%" alt="Pixel Ghost" />
+  <br>
+  <h1>brb, turning coffee into bugs ☕</h1>
+  <p><i>just a ghost floating through the tech stacks 🖤</i></p>
 </div>
