@@ -1,9 +1,9 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/26/d8/70/26d87042a63db929e0b86e097d4afb3c.gif" width="100%" alt="Lofi Ghost Banner" />
-  <br>
-  <h1>powered by zero sleep and code spirits 🕸️</h1>
-  <p><i>"haunting the codebase since [year you started coding]"</i></p>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=im+probably+debugging...;or+staring+at+a+screen...;leave+a+star+before+you+go+👻" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/58/e7/76/58e77665421c4b7d559feaeaeaf311cd.gif" width="100%" alt="Glitch Aesthetic" />
