@@ -18,3 +18,9 @@
   <h1>brb, turning coffee into bugs ☕</h1>
   <p><i>just a ghost floating through the tech stacks 🖤</i></p>
 </div>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=im+probably+debugging...;or+staring+at+a+screen...;leave+a+star+before+you+go+👻" alt="Typing SVG" />
+  </a>
+</p>
