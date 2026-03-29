@@ -21,7 +21,7 @@
 
 <br><br>
 
-<h3 align="center">❝ status: online ❞</h3>
+<h3>❝ status: online ❞</h3>
 
 ```javascript
 const madhan = {
@@ -36,15 +36,6 @@ const madhan = {
 ```
 
 <br><br>
-
-<h3 align="center">❝ vibes & aesthetics ❞</h3>
-  
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-
-<br><br><br>
 
 <h3 align="center">❝ signal reception ❞</h3>
   
