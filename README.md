@@ -17,7 +17,7 @@
 | coffee-driven development | turning caffeine into bugs |
 | haunting the terminal | synchronous life liver |
 
-<br><br>
+<br>
 
 <div align='left'>
     
@@ -34,7 +34,7 @@ const madhan = {
 ```
 </div>
 
-<br><br>
+<br>
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanio&theme=transparent&hide_border=true&background=0D1117&ring=A9A9A9&fire=ffffff&currStreakLabel=A9A9A9&sideLabels=A9A9A9&title_color=ffffff&text_color=A9A9A9&sideNums=ffffff" width="48%" alt="GitHub Streak"/>
 
@@ -42,7 +42,7 @@ const madhan = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhanio&theme=transparent&bg_color=0D1117&title_color=ffffff&text_color=A9A9A9" width="97%" />
 
-<br><br><br>
+<br>
 
 <h3 align="center">❝ connect with the entity ❞</h3>
   
@@ -54,7 +54,7 @@ const madhan = {
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
 </a>
 
-<br><br><br><br>
+<br><br>
 
 <h3 align="center">*"stay spooky > stay sane"*</h3>
 
