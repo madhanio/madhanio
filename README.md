@@ -21,8 +21,6 @@
 
 <br><br>
 
-<h3>❝ status: online ❞</h3>
-
 <div align='left'>
     
 ```javascript
@@ -39,8 +37,6 @@ const madhan = {
 </div>
 
 <br><br>
-
-<h3 align="center">❝ signal reception ❞</h3>
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanio&theme=transparent&hide_border=true&background=0D1117&ring=A9A9A9&fire=ffffff&currStreakLabel=A9A9A9&sideLabels=A9A9A9&title_color=ffffff&text_color=A9A9A9&sideNums=ffffff" width="48%" alt="GitHub Streak"/>
 
