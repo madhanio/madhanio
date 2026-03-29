@@ -1,6 +1,6 @@
 <div align="center">
     
-<h1>🦇 hi, i'm madhan</h1>
+<h1>🦇 Hey Coders, I'm Madhan</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=A9A9A9&center=true&vCenter=true&random=true&width=700&lines=haunting+the+codebase+since+day+one;some+build+apps%2C+some+build+empires;observer+of+patterns%2C+breaker+of+norms;reality+is+just+poorly+written+software;they+asked+if+i+could%2C+not+if+i+should;shipping+silence+in+a+world+of+noise;welcome+to+my+void+%F0%9F%91%BB)](https://git.io/typing-svg)
 
@@ -54,9 +54,9 @@ const madhan = {
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
 </a>
 
-<br><br>
+<br>
 
-<h3 align="center">*"stay spooky > stay sane"*</h3>
+<h3 align="center">"stay spooky > stay sane"</h3>
 
 <img src="https://komarev.com/ghpvc/?username=madhanio&color=000000&style=flat-square&label=◆+VOID+VISITORS+◆" alt="Profile Views"/>
 
