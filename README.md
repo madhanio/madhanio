@@ -1,63 +1,66 @@
-<div align="center">
-    
-<h1>🦇 Hey Coders, I'm Madhan</h1>
+# Hey, I'm Madhan Adepu <img src="https://raw.githubusercontent.com/tanishq-singh-2407/tanishq-singh-2407/main/assets/wave.gif](https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMxMDA0NzAsIm5iZiI6MTc4MzEwMDE3MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzAzVDE3MzYxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5NjE1NGZiODQ1MWQ2M2UyYThiNTE3NjkzZjNlMjZjOTMxM2M3YjNiZTNkZDE0MGEyNzZhOGMwYjYwMTM0NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.Xd9v1_L5Xav-SWt1Dw8xqeWMPXtWEXaAwVxNL3gZ-Rc" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=A9A9A9&center=true&vCenter=true&random=true&width=700&lines=haunting+the+codebase+since+day+one;some+build+apps%2C+some+build+empires;observer+of+patterns%2C+breaker+of+norms;reality+is+just+poorly+written+software;they+asked+if+i+could%2C+not+if+i+should;shipping+silence+in+a+world+of+noise;welcome+to+my+void+%F0%9F%91%BB)](https://git.io/typing-svg)
+<p align="left">
+  <b>CS Undergrad @ HITAM · Hyderabad, India</b><br/>
+  Full-Stack · Flutter · AI/ML · AWS &nbsp;|&nbsp; Open to SWE Internships
+</p>
 
-<br><br>
-<img src="https://media.giphy.com/media/Q8uUxr4A1xweI/giphy.gif" width="600" alt="Ghostly Banner"/>
-<br><br><br>
+<p align="left">
+  <a href="https://linkedin.com/in/madhan-adepu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:madhan.adepu9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<h3 align="center">❝ the duality ❞</h3>
+---
 
-| 🌙 after midnight | ☀️ during daylight |
-|:---:|:---:|
-| architect of chaos | structured problem solver |
-| "one more feature" syndrome | "ship it now" mentality |
-| coffee-driven development | turning caffeine into bugs |
-| haunting the terminal | synchronous life liver |
+## 🧑‍💻 About Me
 
-<br>
-
-<div align='left'>
-    
-```javascript
-const madhan = {
-    location: "somewhere in the digital void",
-    status: "compiling thoughts...",
-    languages: ["English", "Sarcasm", "Code"],
-    currentMood: "💀",
-    sleepSchedule: "404 not found",
-    favoriteDebugMethod: "staring at the screen until it works",
-    workingOn: "👀",
-};
+```json
+{
+  "name": "Madhan Adepu",
+  "college": "HITAM — Hyderabad Institute of Technology & Management",
+  "degree": "B.Tech in Computer Science",
+  "location": "Hyderabad, India",
+  "status": "Open to SWE Internships & New Grad Roles",
+  "interests": ["Full-Stack Development", "Flutter/Mobile", "AI/ML", "Cloud"]
+}
 ```
-</div>
 
-<br>
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanio&theme=transparent&hide_border=true&background=0D1117&ring=A9A9A9&fire=ffffff&currStreakLabel=A9A9A9&sideLabels=A9A9A9&title_color=ffffff&text_color=A9A9A9&sideNums=ffffff" width="48%" alt="GitHub Streak"/>
+---
 
-<br>
+## 🛠️ Languages & Technologies
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhanio&theme=transparent&bg_color=0D1117&title_color=ffffff&text_color=A9A9A9" width="97%" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,nodejs,kotlin,dart,js,java,py,aws,firebase,docker,git&theme=dark" />
+  </a>
+</p>
 
-<br>
+---
 
-<h3 align="center">❝ connect with the entity ❞</h3>
-  
-<a href="https://linkedin.com/in/madhan-adepu">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
-</a>
+## 🚀 Featured Projects
 
-<a href="https://instagram.com/mx9hu__07">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
-</a>
+- 🎓 **[AI-in-LMS](https://github.com/madhanio/AI-in-LMS)**: AI-powered Learning Management System with personalized content delivery (Flutter & Dart).
+- 📱 **[smart-silence](https://github.com/madhanio/smart-silence)**: Automates phone notification sound profiles using DND access & background alarms (Kotlin).
+<!-- PLACEHOLDER_FOR_FUTURE_PROJECT: Add your DSA Solutions or third major project here -->
 
-<br>
+---
 
-<h3 align="center">"stay spooky > stay sane"</h3>
+## 📊 GitHub Stats
 
-<img src="https://komarev.com/ghpvc/?username=madhanio&color=000000&style=flat-square&label=◆+VOID+VISITORS+◆" alt="Profile Views"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhanio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanio&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
-</div>
+---
+
+## 🎯 Currently
+
+- 🔭 **Building:** AI/ML + Mobile projects
+- 📚 **Studying:** Data Structures & Algorithms, System Design
+- 🌱 **Learning:** AWS Cloud Practitioner concepts
+- 💼 **Seeking:** SWE Internships (Hyderabad · Remote)
