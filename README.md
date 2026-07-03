@@ -60,7 +60,13 @@
 
 ## 🎯 Currently
 
-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20px"> **Building:** AI/ML + Mobile projects
+- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20px">  **Building:** AI/ML + Mobile projects
 - 📚 **Studying:** Data Structures & Algorithms, System Design
 - 🌱 **Learning:** AWS Cloud Practitioner concepts
 - 💼 **Seeking:** SWE Internships (Hyderabad · Remote)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1QHUR4YpGg/giphy.gif" width="100%" max-width="600px" style="border-radius: 10px;" alt="Coding Lofi Chill Sunset](https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMxMDA0NzAsIm5iZiI6MTc4MzEwMDE3MCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzAzVDE3MzYxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwMGJkMGEwNWQ0NDhhMzQxYmE4Y2JmMDUxOWIxMzUwZjhiMjEwNzI1Njg1M2RhMTYxZmVmNjhmMzliODM0ZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.ojWNcT_GQZrPBww30tMh-kTGlz661kXGW0mYbL7Y1JU" />
+</p>
