@@ -24,7 +24,7 @@
   "college": "HITAM — Hyderabad Institute of Technology & Management",
   "degree": "B.Tech in Computer Science",
   "location": "Hyderabad, India",
-  "status": "Open to SWE Internships & New Grad Roles",
+  "status": "Targeting FAANG SWE/AI-ML Roles | 2026 Grad",
   "interests": ["Full-Stack Development", "Flutter/Mobile", "AI/ML", "Cloud"]
 }
 ```
@@ -43,8 +43,8 @@
 
 ## <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMxMDA0NzAsIm5iZiI6MTc4MzEwMDE3MCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzAzVDE3MzYxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiODU1ZTAyYzM4ZjQ5MDIyOTIxYmY5NDhmM2U5MDJlMTA4OTk0YzRmNmJhNmY2ODkwMWQzNTVhN2EzODg0NDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.z2KY9VQxwGmu34AeM5jZIC9WB4Ogj7YaA8UxaqM9fWI" width ="30px"> Featured Projects
 
-- 🎓 **[AI-in-LMS](https://github.com/madhanio/AI-in-LMS)**: AI-powered Learning Management System with personalized content delivery (Flutter & Dart).
-- 📱 **[smart-silence](https://github.com/madhanio/smart-silence)**: Automates phone notification sound profiles using DND access & background alarms (Kotlin).
+- 🎓 **[AI-in-LMS](https://github.com/madhanio/AI-in-LMS)**:RAG-powered academic mentor — NVIDIA NIM + pgvector + Flutter + AWS EC2 + Docker CI/CD.
+- 📱 **[smart-silence](https://github.com/madhanio/smart-silence)**: Android app — system-level DND automation with schedule-based sound profiles, background alarms & Flutter UI.
 <!-- PLACEHOLDER_FOR_FUTURE_PROJECT: Add your DSA Solutions or third major project here -->
 
 ---
