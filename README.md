@@ -18,7 +18,6 @@
 I build in public too, and I follow people whose commits say more than their bio.
 No pressure to follow back, but if you do, let's keep building.*
 
---- 
 
 ## 🧑‍💻 About Me
 
@@ -68,7 +67,5 @@ No pressure to follow back, but if you do, let's keep building.*
 - 📚 **Studying:** Data Structures & Algorithms, System Design
 - 🌱 **Learning:** AWS Cloud Practitioner concepts
 - 💼 **Seeking:** SWE Internships (Hyderabad · Remote)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=let's%20talk%20tech!&fontSize=45&fontAlign=75&fontAlignY=65&animation=twinkling&descSize=18&descAlignY=58&descAlign=56&section=footer&reversal=true" />
