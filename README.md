@@ -1,4 +1,4 @@
-# Hey, I'm Madhan Adepu <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px">](https://capsule-render.vercel.app/api?type=blur&height=250&color=timegradient&text=Madhan%20Adepu&fontSize=50&fontAlign=50&fontAlignY=48&animation=twinkling&desc=code.%20automate.&descSize=18&descAlignY=58&descAlign=56
+https://capsule-render.vercel.app/api?type=blur&height=250&color=timegradient&text=Madhan%20Adepu&fontSize=50&fontAlign=50&fontAlignY=48&animation=twinkling&desc=code.%20automate.&descSize=18&descAlignY=58&descAlign=56
 
 <p align="left">
   <b>CS Undergrad @ HITAM · Hyderabad, India</b><br/>
