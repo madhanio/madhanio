@@ -63,7 +63,7 @@ No pressure to follow back, but if you do, let's keep building.*
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30px"> Currently
 
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8b20768b-9698-4a5c-9282-0e9d2195acd0" /> **Building:** AI/ML + Mobile projects
+- <img src="https://github.com/user-attachments/assets/8b20768b-9698-4a5c-9282-0e9d2195acd0" width="20px" /> **Building:** AI/ML + Mobile projects
 - 📚 **Studying:** Data Structures & Algorithms, System Design
 - 🌱 **Learning:** AWS Cloud Practitioner concepts
 - 💼 **Seeking:** SWE Internships (Hyderabad · Remote)
