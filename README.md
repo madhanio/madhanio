@@ -14,8 +14,6 @@
   </a>
 </p>
 
----
-
 *If you're reading this because I followed you — your work genuinely caught my eye.
 I build in public too, and I follow people whose commits say more than their bio.
 No pressure to follow back, but if you do, let's keep building.*
