@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/madhan-adepu">
-    <img src="https://github.com/user-attachments/assets/0c769432-30ce-4358-ad07-91f03f8f03d2" width="50px"/>
+   <img src="https://github.com/user-attachments/assets/b2f5d0d6-82b2-41f6-8a9f-0a9c59ab2059" width="50px"/>
+
 
 
 
