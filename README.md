@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Madhan%20Adepu&fontSize=50&fontAlign=50&fontAlignY=48&animation=twinkling&desc=code.%2010code,%20&descSize=18&descAlignY=58&descAlign=56&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Madhan%20Adepu&fontSize=50&fontAlign=50&fontAlignY=48&animation=twinkling&desc=code.%20automate.&descSize=18&descAlignY=58&descAlign=56&section=footer" />
 
 <p align="left">
   <b>CS Undergrad @ HITAM · Hyderabad, India</b><br/>
