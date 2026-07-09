@@ -64,7 +64,7 @@ No pressure to follow back, but if you do, let's keep building.*
 
 ---
 
-## 🎯 Currently
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20px"> Currently
 
 - <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20px">  **Building:** AI/ML + Mobile projects
 - 📚 **Studying:** Data Structures & Algorithms, System Design
