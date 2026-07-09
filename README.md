@@ -10,11 +10,13 @@
    <img src="https://github.com/user-attachments/assets/b2f5d0d6-82b2-41f6-8a9f-0a9c59ab2059" width="50px"/>
 
 
+ 
 
 
   </a>
   <a href="mailto:madhan.adepu9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+   <img width="50px" src="https://github.com/user-attachments/assets/46404e06-73e2-4472-8cfd-01a7c6229179" />
+
   </a>
 </p>
 
