@@ -26,7 +26,7 @@ No pressure to follow back, but if you do, let's keep building.*
   "college": "HITAM — Hyderabad Institute of Technology & Management",
   "degree": "B.Tech in Computer Science",
   "location": "Hyderabad, India",
-  "status": "Targeting FAANG SWE/AI-ML Roles | 2026 Grad",
+  "status": "Targeting FAANG SWE/AI-ML Roles | 2028 Grad",
   "interests": ["Full-Stack Development", "Flutter/Mobile", "AI/ML", "Cloud"]
 }
 ```
