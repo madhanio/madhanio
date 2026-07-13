@@ -20,9 +20,7 @@ No pressure to follow back, but if you do, let's keep building.*
 
 ## 🧑‍💻 About Me
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=bb9af7&background=0D1117&vCenter=true&multiline=true&width=600&height=140&lines=madhan%40workspace%3A~%24+whoami;Madhan+Adepu;madhan%40workspace%3A~%24+cat+education.txt;B.Tech+in+Computer+Science+%40+HITAM;madhan%40workspace%3A~%24+./get_status.sh;%5B%E2%9C%94%5D+Target%3A+FAANG+SWE+%2F+AI-ML+Roles" alt="Typing SVG" />
-</a>
+<img src="./terminal.gif" width="700" alt="Terminal Animation">
 
 ---
 
