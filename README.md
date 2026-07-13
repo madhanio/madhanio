@@ -21,27 +21,8 @@ No pressure to follow back, but if you do, let's keep building.*
 ## 🧑‍💻 About Me
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=32CD32&background=0D1117&vCenter=true&multiline=true&width=600&height=140&lines=madhan%40workspace%3A~%24+whoami;Madhan+Adepu;madhan%40workspace%3A~%24+cat+education.txt;B.Tech+in+Computer+Science+%40+HITAM;madhan%40workspace%3A~%24+./get_status.sh;%5B%E2%9C%94%5D+Target%3A+FAANG+SWE+%2F+AI-ML+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7dcfff&background=0D1117&vCenter=true&multiline=true&width=600&height=140&lines=madhan%40workspace%3A~%24+whoami;Madhan+Adepu;madhan%40workspace%3A~%24+cat+education.txt;B.Tech+in+Computer+Science+%40+HITAM;madhan%40workspace%3A~%24+./get_status.sh;%5B%E2%9C%94%5D+Target%3A+FAANG+SWE+%2F+AI-ML+Roles" alt="Typing SVG" />
 </a>
-
-```shell
-madhan@workspace:~$ whoami
-Madhan Adepu
-
-madhan@workspace:~$ cat education.txt
-B.Tech in Computer Science @ HITAM
-Location: Hyderabad, India
-Graduation: Class of 2028
-
-madhan@workspace:~$ ./get_status.sh
-[✔] Target: FAANG SWE / AI-ML Roles
-
-madhan@workspace:~$ ls -l ./focus_areas/
-drwxr-xr-x  2 madhan  dev  4096  Jul 13 11:42  AI-ML
-drwxr-xr-x  2 madhan  dev  4096  Jul 13 11:42  Cloud
-drwxr-xr-x  2 madhan  dev  4096  Jul 13 11:42  Flutter-Mobile
-drwxr-xr-x  2 madhan  dev  4096  Jul 13 11:42  Full-Stack
-```
 
 ---
 
