@@ -20,15 +20,23 @@ No pressure to follow back, but if you do, let's keep building.*
 
 ## 🧑‍💻 About Me
 
-```json
-{
-  "name": "Madhan Adepu",
-  "college": "HITAM — Hyderabad Institute of Technology & Management",
-  "degree": "B.Tech in Computer Science",
-  "location": "Hyderabad, India",
-  "status": "Targeting FAANG SWE/AI-ML Roles | 2028 Grad",
-  "interests": ["Full-Stack Development", "Flutter/Mobile", "AI/ML", "Cloud"]
-}
+```shell
+madhan@workspace:~$ whoami
+Madhan Adepu
+
+madhan@workspace:~$ cat education.txt
+B.Tech in Computer Science @ HITAM
+Location: Hyderabad, India
+Graduation: Class of 2028
+
+madhan@workspace:~$ ./get_status.sh
+[✔] Target: FAANG SWE / AI-ML Roles
+
+madhan@workspace:~$ ls -l ./focus_areas/
+drwxr-xr-x  2 madhan  dev  4096  Jul 13 11:42  AI-ML
+drwxr-xr-x  2 madhan  dev  4096  Jul 13 11:42  Cloud
+drwxr-xr-x  2 madhan  dev  4096  Jul 13 11:42  Flutter-Mobile
+drwxr-xr-x  2 madhan  dev  4096  Jul 13 11:42  Full-Stack
 ```
 
 ---
