@@ -20,7 +20,7 @@ No pressure to follow back, but if you do, let's keep building.*
 
 ## 🧑‍💻 About Me
 
-<img src="./terminal.gif" width="700" alt="Terminal Animation">
+<video src="./terminal.gif" autoplay look muted playsinline width="700" alt="Terminal Animation"></video>
 
 ---
 
