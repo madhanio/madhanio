@@ -45,7 +45,7 @@ No pressure to follow back, but if you do, let's keep building.*
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=madhanio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api?username=madhanio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="195" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanio&theme=tokyonight&hide_border=true&v=1" height="195" />
 </p>
 
