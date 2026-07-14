@@ -20,8 +20,10 @@ No pressure to follow back, but if you do, let's keep building.*
 
 ## 🧑‍💻 About Me
 
-<img src="./terminal.gif" width="700" alt="terminal animation">
-
+<div align="center">
+  <img src="./terminal.gif" width="500" alt="terminal animation">
+</div>
+  
 ---
 
 ## 🛠️ Languages & Technologies
