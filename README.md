@@ -20,7 +20,7 @@ No pressure to follow back, but if you do, let's keep building.*
 
 ## 🧑‍💻 About Me
 
-https://github.com/user-attachments/assets/9eee4281-ce30-4406-ab02-45fdf222ca7d
+<video src="https://github.com/user-attachments/assets/9eee4281-ce30-4406-ab02-45fdf222ca7d" autoplay loop muted playsinline width="700"></video>
 
 ---
 
