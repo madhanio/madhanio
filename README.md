@@ -51,6 +51,4 @@ No pressure to follow back, but if you do, let's keep building.*
 
 >*currently: shipping, grinding, and figuring out what's next.*
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=let's%20talk%20tech!&fontSize=45&fontAlign=75&fontAlignY=65&animation=twinkling&descSize=18&descAlignY=58&descAlign=56&section=footer&reversal=true" />
