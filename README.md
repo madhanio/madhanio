@@ -43,12 +43,10 @@ No pressure to follow back, but if you do, let's keep building.*
 
 ## > how it's going.
 
-<p align="left">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=madhanio&theme=radical)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanio&layout=compact&theme=radical)
-</p>
-
----
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=madhanio&theme=radical">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanio&layout=compact&theme=radical">
+</div>
 
 ## > right now.
 
