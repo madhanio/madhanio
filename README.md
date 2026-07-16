@@ -26,11 +26,11 @@ No pressure to follow back, but if you do, let's keep building.*
 
 ## 🛠️ Languages & Technologies
 
-<p align="left">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,nodejs,kotlin,dart,js,java,py,aws,firebase,docker,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,flutter,java,nodejs,py,supabase,firebase,postgres,aws,vercel,docker,jenkins,githubactions,git&theme=dark&perline=7" alt="Floating Skill Icons" />
   </a>
-</p>
+</div>
 
 ---
 
