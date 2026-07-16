@@ -13,18 +13,19 @@
    <img width="50px" src="https://github.com/user-attachments/assets/46404e06-73e2-4472-8cfd-01a7c6229179" /></a>
 </p>
 
+> hey. welcome to the workspace
+
 *If you're reading this because I followed you — your work genuinely caught my eye.
 I build in public too, and I follow people whose commits say more than their bio.
 No pressure to follow back, but if you do, let's keep building.*
 
 
-## 🧑‍💻 About Me
+## > who am i?
 
   <img src="./terminal.gif" width="600" alt="terminal animation">
   
----
 
-## 🛠️ Languages & Technologies
+## > what i build with.
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -32,17 +33,15 @@ No pressure to follow back, but if you do, let's keep building.*
   </a>
 </div>
 
----
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMxMDA0NzAsIm5iZiI6MTc4MzEwMDE3MCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzAzVDE3MzYxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiODU1ZTAyYzM4ZjQ5MDIyOTIxYmY5NDhmM2U5MDJlMTA4OTk0YzRmNmJhNmY2ODkwMWQzNTVhN2EzODg0NDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.z2KY9VQxwGmu34AeM5jZIC9WB4Ogj7YaA8UxaqM9fWI" width ="30px" /> Featured Projects
+## > stuff i've shipped.
 
 - 🎓 **[AI-in-LMS](https://github.com/madhanio/AI-in-LMS)**:RAG-powered academic mentor — NVIDIA NIM + pgvector + Flutter + AWS EC2 + Docker CI/CD.
 - 📱 **[smart-silence](https://github.com/madhanio/smart-silence)**: Android app — system-level DND automation with schedule-based sound profiles, background alarms & Flutter UI.
 <!-- PLACEHOLDER_FOR_FUTURE_PROJECT: Add your DSA Solutions or third major project here -->
 
----
 
-## 📊 GitHub Stats
+## > how it's going.
 
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=madhanio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" />
@@ -51,7 +50,7 @@ No pressure to follow back, but if you do, let's keep building.*
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30px"> Currently
+## > right now.
 
 - 💻 **Building:** AI/ML + Mobile projects
 - 📚 **Studying:** Data Structures & Algorithms, System Design
