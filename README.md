@@ -21,8 +21,8 @@ No pressure to follow back, but if you do, let's keep building.*
 ## > who am i?
 
 <p align="center">
-  <img src="assets/terminal.gif" width="45%" />
-  <img src="assets/cat_jump.gif" width="45%" />
+  <img src="assets/terminal.gif" width="48%" />
+  <img src="assets/cat_jump.gif" width="48%" />
 </p>
   
 
