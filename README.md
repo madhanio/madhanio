@@ -36,8 +36,8 @@ No pressure to follow back, but if you do, let's keep building.*
 
 ## > stuff i've shipped.
 
-- 🎓 **[AI-in-LMS](https://github.com/madhanio/AI-in-LMS)**:RAG-powered academic mentor — NVIDIA NIM + pgvector + Flutter + AWS EC2 + Docker CI/CD.
-- 📱 **[smart-silence](https://github.com/madhanio/smart-silence)**: Android app — system-level DND automation with schedule-based sound profiles, background alarms & Flutter UI.
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=ai-in-lms&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=smart-silence&theme=radical)
 <!-- PLACEHOLDER_FOR_FUTURE_PROJECT: Add your DSA Solutions or third major project here -->
 
 
