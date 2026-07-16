@@ -48,6 +48,9 @@
 ## > reach out.
 <p align="center">
   If you liked what you saw, let's connect.
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/madhan-adepu" target="_blank">
    <img src="https://github.com/user-attachments/assets/b2f5d0d6-82b2-41f6-8a9f-0a9c59ab2059" width="50px"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
