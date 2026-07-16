@@ -13,8 +13,6 @@
    <img width="50px" src="https://github.com/user-attachments/assets/46404e06-73e2-4472-8cfd-01a7c6229179" /></a>
 </p>
 
-> hey. welcome to the workspace
-
 *If you're reading this because I followed you — your work genuinely caught my eye.
 I build in public too, and I follow people whose commits say more than their bio.
 No pressure to follow back, but if you do, let's keep building.*
