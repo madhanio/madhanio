@@ -48,11 +48,6 @@ No pressure to follow back, but if you do, let's keep building.*
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanio&layout=compact&theme=radical">
 </div>
 
-## > right now.
-
-- 💻 **Building:** AI/ML + Mobile projects
-- 📚 **Studying:** Data Structures & Algorithms, System Design
-- 🌱 **Learning:** AWS Cloud Practitioner concepts
-- 💼 **Seeking:** SWE Internships (Hyderabad · Remote)
+>*currently: shipping, grinding, and figuring out what's next.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=let's%20talk%20tech!&fontSize=45&fontAlign=75&fontAlignY=65&animation=twinkling&descSize=18&descAlignY=58&descAlign=56&section=footer&reversal=true" />
