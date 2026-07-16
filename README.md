@@ -44,7 +44,7 @@ No pressure to follow back, but if you do, let's keep building.*
 ## > how it's going.
 
 <p align="left">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=madhanio&custom_title=My%20github%20stats&show_icons=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=madhanio&custom_title=My%20github%20stats&show_icons=true&theme=radical)
+  <img src="https://github-stats-extended.vercel.app/api?username=madhanio&custom_title=My%20github%20stats&show_icons=true&theme=radical" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanio&theme=tokyonight&hide_border=true&v=1" height="195" />
 </p>
 
