@@ -20,7 +20,10 @@ No pressure to follow back, but if you do, let's keep building.*
 
 ## > who am i?
 
-  <img src="./terminal.gif" width="600" alt="terminal animation">
+<p align="center">
+  <img src="assets/terminal.gif" width="45%" />
+  <img src="assets/cat_jump.gif" width="45%" />
+</p>
   
 
 ## > what i build with.
