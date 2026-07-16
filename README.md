@@ -5,14 +5,6 @@
   Full-Stack · Flutter · AI/ML · AWS &nbsp;|&nbsp; Open to SWE Internships
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/madhan-adepu" target="_blank">
-   <img src="https://github.com/user-attachments/assets/b2f5d0d6-82b2-41f6-8a9f-0a9c59ab2059" width="50px"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:madhan.adepu9@gmail.com" target="_blank">
-   <img width="50px" src="https://github.com/user-attachments/assets/46404e06-73e2-4472-8cfd-01a7c6229179" /></a>
-</p>
-
 *If I followed you, your work stood out. I enjoy building in public, Always up for connecting with people shipping real work.*
 
 
@@ -52,4 +44,17 @@
 *currently: shipping, grinding, and figuring out what's next.*
 
 </div>
+
+<br>
+
+## > reach out.
+<p align="center">
+  <a href="https://linkedin.com/in/madhan-adepu" target="_blank">
+   <img src="https://github.com/user-attachments/assets/b2f5d0d6-82b2-41f6-8a9f-0a9c59ab2059" width="50px"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:madhan.adepu9@gmail.com" target="_blank">
+   <img width="50px" src="https://github.com/user-attachments/assets/46404e06-73e2-4472-8cfd-01a7c6229179" /></a>
+</p>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=let's%20talk%20tech!&fontSize=45&fontAlign=75&fontAlignY=65&animation=twinkling&descSize=18&descAlignY=58&descAlign=56&section=footer&reversal=true" />
