@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
+  
 *If I followed you, your work stood out. I enjoy building in public, Always up for connecting with people shipping real work.*
+
 </p>
 
 
