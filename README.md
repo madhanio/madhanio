@@ -30,8 +30,12 @@
 
 ## > what i've shipped.
 <div align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=ai-in-lms&theme=radical">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=smart-silence&theme=radical">
+    <a href="https://github.com/madhanio/ai-in-lms" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=ai-in-lms&theme=radical"> 
+    </a>
+    <a href="https://github.com/madhanio/smart-silence" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=smart-silence&theme=radical">
+    </a>
 <!-- PLACEHOLDER_FOR_FUTURE_PROJECT: Add your DSA Solutions or third major project here -->
 </div>
 
