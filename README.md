@@ -5,12 +5,11 @@
   Full-Stack · Flutter · AI/ML · AWS &nbsp;|&nbsp; Open to SWE Internships
 </p>
 
-<p align="center">
+<div align="center">
   
 *If I followed you, your work stood out. I enjoy building in public, Always up for connecting with people shipping real work.*
 
-</p>
-
+</div>
 
 ## > behind the keyboard.
 
