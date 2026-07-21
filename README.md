@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://madhanio.github.io">
-    <img src="https://github.com/user-attachments/assets/6f8bee5c-709d-4292-abc9-91e279893da6" width="50px"/></a>
+    <img src="https://github.com/user-attachments/assets/53b61def-09ac-4151-9784-bf86daf4d8f0" width="50px"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/madhan-adepu" target="_blank">
    <img src="https://github.com/user-attachments/assets/b2f5d0d6-82b2-41f6-8a9f-0a9c59ab2059" width="50px"/></a>
