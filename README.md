@@ -21,8 +21,8 @@
 
 | now | always |
 |-----|--------|
-| building FollowMe — GitHub discovery engine with NVIDIA NIM | obsessed with systems that scale |
-| exploring agentic RAG pipelines | full-stack by necessity, AI by choice |
+| building [Flick](https://github.com/madhanio/flick) — zero-server cross-platform clipboard sync | obsessed with systems that scale |
+| exploring local-first P2P & encrypted protocols | full-stack by necessity, AI by choice |
 | open to SWE / AI internships | shipping > perfecting |
 
 </div>
@@ -56,7 +56,7 @@
 <br>
 <div align="center">
   
-*currently: shipping [FollowMe](https://github.com/madhanio/followme) — GitHub dev discovery with NVIDIA NIM LLMs.*
+*currently: shipping [Flick](https://github.com/madhanio/flick) — GitHub dev discovery with NVIDIA NIM LLMs.*
 
 </div>
 
