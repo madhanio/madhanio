@@ -56,7 +56,7 @@
 <br>
 <div align="center">
   
-*currently: shipping [Flick](https://github.com/madhanio/flick) — GitHub dev discovery with NVIDIA NIM LLMs.*
+*currently: shipping [Flick](https://github.com/madhanio/flick) — zero-server, zero-database cross-platform clipboard sync built for pure peer-to-peer privacy.*
 
 </div>
 
