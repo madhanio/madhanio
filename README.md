@@ -17,6 +17,15 @@
   <img src="assets/terminal.gif" width="48%" />
   <img src="assets/cat_jump.gif" width="48%" />
 </p>
+<div align="center">
+
+| now | always |
+|-----|--------|
+| building FollowMe — GitHub discovery engine with NVIDIA NIM | obsessed with systems that scale |
+| exploring agentic RAG pipelines | full-stack by necessity, AI by choice |
+| open to SWE / AI internships | shipping > perfecting |
+
+</div>
   
 
 ## > under the hood.
@@ -34,7 +43,8 @@
       <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=ai-in-lms&theme=radical"></a>
     <a href="https://github.com/madhanio/smart-silence" target="_blank" rel="noopener noreferrer">
       <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=smart-silence&theme=radical"></a>
-<!-- PLACEHOLDER_FOR_FUTURE_PROJECT: Add your DSA Solutions or third major project here -->
+    <a href="https://github.com/madhanio/followme">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=followme&theme=radical"></a>
 </div>
 
 ## > git status.
@@ -46,7 +56,7 @@
 <br>
 <div align="center">
   
-*currently: shipping, grinding, and figuring out what's next.*
+*currently: shipping [FollowMe](https://github.com/madhanio/followme) — GitHub dev discovery with NVIDIA NIM LLMs.*
 
 </div>
 
