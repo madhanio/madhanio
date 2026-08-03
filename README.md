@@ -40,14 +40,14 @@
 ## > what i've shipped.
 
 <div align="center">
-  <a href="https://github.com/madhanio/ai-in-lms" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=ai-in-lms&theme=radical&cache_seconds=1800">
+  <a href="https://github.com/madhanio/AI-in-LMS" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=AI-in-LMS&theme=radical&cache_seconds=1800" />
   </a>
   <a href="https://github.com/madhanio/smart-silence" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=smart-silence&theme=radical&cache_seconds=1800">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=smart-silence&theme=radical&cache_seconds=1800" />
   </a>
-  <a href="https://github.com/madhanio/followme">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhanio&repo=followme&theme=dark&cache_seconds=1800" />
+  <a href="https://github.com/madhanio/followme" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=followme&theme=radical&cache_seconds=1800" />
   </a>
 </div>
 
