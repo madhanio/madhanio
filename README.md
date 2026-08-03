@@ -51,7 +51,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=madhanio&theme=radical">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanio&layout=compact&theme=radical">
 </div>
 <br>
 <div align="center">
@@ -75,6 +74,3 @@
   <a href="mailto:madhan.adepu9@gmail.com" target="_blank">
    <img width="50px" src="https://github.com/user-attachments/assets/46404e06-73e2-4472-8cfd-01a7c6229179" /></a>
 </p>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=let's%20talk%20tech!&fontSize=45&fontAlign=75&fontAlignY=65&animation=twinkling&descSize=18&descAlignY=58&descAlign=56&section=footer&reversal=true" />
