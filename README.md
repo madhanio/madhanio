@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/madhanio/AI-in-LMS" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=AI-in-LMS&theme=radical&cache_seconds=1800" /></a>&nbsp;
-  <a href="https://github.com/madhanio/followme" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=followme&theme=radical&cache_seconds=1800" /></a>&nbsp;
+  <a href="https://github.com/madhanio/followme" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=followme&theme=radical&cache_seconds=0" /></a>&nbsp;
   <a href="https://github.com/madhanio/smart-silence" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=madhanio&repo=smart-silence&theme=radical&cache_seconds=1800" /></a>
 </p>
 
