@@ -48,7 +48,7 @@
 ## > git status.
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=madhanio&theme=radical&cache_seconds=0&v=1">
+  <img src="https://streak-stats.demolab.com?user=madhanio&theme=radical" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
